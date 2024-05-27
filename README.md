@@ -6,13 +6,13 @@ Extracted a dataset from Kaggle and imported it into Tableau to analyze the data
 
 Generated graphs, visuals, and dashboards to summarize insights and draw appropriate conclusions from the data.
 
-# Demonstration 
+## Demonstration 
 https://devpost.com/software/salaryscope
 
-# Features
+## Features
 - Education Level Analysis: Examine how different levels of education impact salaries.
 - Experience Impact: Investigate how years of experience correlate with salary.
 - Role-Based Salary Insights: Analyze salary variations across different job titles.
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
