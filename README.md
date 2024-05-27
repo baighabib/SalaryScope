@@ -1,4 +1,4 @@
-# SalaryScope
+# SalaryScope: Unveiling Factors Influencing Professional Earnings
 
 Data Visualization on Salary Dataset
 
