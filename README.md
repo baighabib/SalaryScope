@@ -6,6 +6,13 @@ This dataset was obtained from multiple sources, including surveys, job posting 
 
 Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 
+## Research Questions 📚
+- What is the highest paying job title?
+- Is there a trend in salaries given different education levels?
+- What is the relationship between different age groups and salaries across all job titles?
+- As a Data Scientist who graduated from a Master’s Program, is there a difference in salary with at least 3 years of work experience?
+- Is there a significant difference in salary for Data Scientists depending on gender? Does this vary by education level?
+  
 ## Key Variables 🎯
 - Age - The age of the individual.
 - Gender - The gender of the individual.
@@ -14,17 +21,14 @@ Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 - Years of Experience - The total number of years the individual has worked in their field.
 - Salary - The annual salary of the individual in USD.
 
-## Dashbord 📊
-Explore the insights using the dynamic dashboard: https://public.tableau.com/app/profile/habib.ullah.baig/viz/SalaryScope/Dashboard
-
 ## Key Features 🔍
 - Education Level Analysis: Examine how different levels of education impact salaries.
 - Experience Impact: Investigate how years of experience correlate with salary.
 - Role-Based Salary Insights: Analyze salary variations across different job titles.
+  
+## Dashbord 📊
+Explore the dashboard for deeper insights: https://public.tableau.com/app/profile/habib.ullah.baig/viz/SalaryScope/Dashboard
 
-## Research Questions 📚
-- What is the highest paying job title?
-- Is there a trend in salaries given different education levels?
-- What is the relationship between different age groups and salaries across all job titles?
-- As a Data Scientist who graduated from a Master’s Program, is there a difference in salary with at least 3 years of work experience?
-- Is there a significant difference in salary for Data Scientists depending on gender? Does this vary by education level?
+
+
+
