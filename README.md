@@ -4,7 +4,7 @@ This dynamic Tableau dashboard provides a comprehensive and interactive analysis
 
 This dataset was obtained from multiple sources, including surveys, job posting sites, and other publicly available sources over the years and was published in Q1 of 2023.
 
-Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+**Dataset**: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 
 ## Research Questions 📚
 - What is the highest paying job title?
@@ -14,12 +14,12 @@ Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 - Is there a significant difference in salary for Data Scientists depending on gender? Does this vary by education level?
   
 ## Key Variables 🎯
-- Age - The age of the individual.
-- Gender - The gender of the individual.
-- Education Level - The highest level of education achieved by the individual.
-- Job Title - The professional designation or position held by the individual.
-- Years of Experience - The total number of years the individual has worked in their field.
-- Salary - The annual salary of the individual in USD.
+- **Age** - The age of the individual.
+- **Gender** - The gender of the individual.
+- **Education Level** - The highest level of education achieved by the individual.
+- **Job Title** - The professional designation or position held by the individual.
+- **Years of Experience** - The total number of years the individual has worked in their field.
+- **Salary** - The annual salary of the individual in USD.
 
 ## Key Features 🔍
 - Education Level Analysis: Examine how different levels of education impact salaries.
@@ -29,6 +29,15 @@ Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 ## Dashbord 📊
 Explore the dashboard for deeper insights: https://public.tableau.com/app/profile/baighabib/viz/SalaryScope/Dashboard
 
+## License
+This project is licensed under the **MIT License**. See the LICENSE.txt file for details.
+
+## Conclusion
+This project represents a meticulous analysis endeavor aimed at unraveling the intricate patterns within Salary data, we've unearthed valuable insights crucial for informed decision-making within the data profession.
+
+Your engagement is vital to the continuous enhancement of this project. Whether it's through cloning the repository, contributing with your insights, or connecting with me on LinkedIn, let's collaborate and elevate our understanding of the restaurant landscape together.
+
+**Thank you** for exploring this project, and here's to making data-driven decisions that shape the future of dining experiences!
 
 
 
