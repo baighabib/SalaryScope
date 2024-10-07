@@ -23,8 +23,8 @@ Explore the insights using the dynamic dashboard: https://public.tableau.com/app
 - Role-Based Salary Insights: Analyze salary variations across different job titles.
 
 ## Research Questions 📚
-What is the highest paying job title?
-Is there a trend in salaries given different education levels?
-What is the relationship between different age groups and salaries across all job titles?
-As a Data Scientist who graduated from a Master’s Program, is there a difference in salary with at least 3 years of work experience?
-Is there a significant difference in salary for Data Scientists depending on gender? Does this vary by education level?
+- What is the highest paying job title?
+- Is there a trend in salaries given different education levels?
+- What is the relationship between different age groups and salaries across all job titles?
+- As a Data Scientist who graduated from a Master’s Program, is there a difference in salary with at least 3 years of work experience?
+- Is there a significant difference in salary for Data Scientists depending on gender? Does this vary by education level?
