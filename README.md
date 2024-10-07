@@ -1,6 +1,6 @@
 # SalaryScope: Unveiling Factors Influencing Professional Earnings
 
-This dynamic Tableau dashboard provides a comprehensive and interactive analysis of salary trends within the data profession, enabling users to explore real-time insights based on various influencing factors. The dashboard is structured around five core research questions, offering an in-depth view of salary distributions, job roles, and the factors that drive earnings.
+This dynamic Tableau dashboard provides a comprehensive and interactive analysis of salary trends within the data profession, enabling users to explore historical insights based on various influencing factors. The dashboard is structured around five core research questions, offering an in-depth view of salary distributions, job roles, and the factors that drive earnings.
 
 This dataset was obtained from multiple sources, including surveys, job posting sites, and other publicly available sources over the years and was published in Q1 of 2023.
 
