@@ -27,7 +27,7 @@ Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 - Role-Based Salary Insights: Analyze salary variations across different job titles.
   
 ## Dashbord 📊
-Explore the dashboard for deeper insights: https://public.tableau.com/app/profile/habib.ullah.baig/viz/SalaryScope/Dashboard
+Explore the dashboard for deeper insights: https://public.tableau.com/app/profile/baighabib/viz/SalaryScope/Dashboard
 
 
 
